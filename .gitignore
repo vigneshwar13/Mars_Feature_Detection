@@ -1,0 +1,8 @@
+# Mars Feature Detection
+
+# Compiled files
+*.o
+*.exe
+
+# Test images
+data/test_images/
